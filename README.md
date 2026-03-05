@@ -2,13 +2,13 @@
 Pipeline ETL y Dashboard de análisis de precios para el mercado de electrónica en Facebook Marketplace usando Python (Selenium) y Power BI
 
 ## Dashboard Preview
-![Dashboard Principal](Inicio.jpg)
+![Dashboard Principal](Inicio.JPG)
 *Vista general del análisis de mercado en Facebook Marketplace.*
 
 ### Análisis Detallado
 | Resumen General | Distribución Geográfica | Análisis de Productos | Análisis de Smartphones |
 | :---: | :---: | :---: | :---: |
-| ![Resumen](Resumen_general.jpg) | ![Mapa](análisis_geográfico.jpg) | ![Productos](analisis_productos.jpg) | ![Smartphones](analisis_smartphones.jpg) |
+| ![Resumen](Resumen_general.JPG) | ![Mapa](análisis_geográfico.JPG) | ![Productos](analisis_productos.JPG) | ![Smartphones](analisis_smartphones.JPG) |
 
 ## Descripción
 Este proyecto automatiza la extracción y clasificación de productos tecnológicos en Lima para identificar oportunidades de compra.
